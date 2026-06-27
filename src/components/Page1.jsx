@@ -1,5 +1,3 @@
-const background = "bg-blue";
-
 function Page1(props) {
     return (
         <div className={`relative min-h-screen flex bg-black`}>
